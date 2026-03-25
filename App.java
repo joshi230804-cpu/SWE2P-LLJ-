@@ -7,4 +7,5 @@ public class App {
         studierender1.frageStellen("Was ist Prüfungsrelevant?", dozent1);
         dozent1.frageBeantworten("Prüfungsrelevant sind alle Vorlesungen und Übungsblätter.", studierender1);
     }
+    // moin
 }
